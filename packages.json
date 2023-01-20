@@ -1,0 +1,34 @@
+[
+    {
+        "package": "zscorer",
+        "url": "https://github.com/nutriverse/zscorer"
+    },
+    {
+        "package": "nipnTK",
+        "url": "https://github.com/nutriverse/nipnTK"
+    },
+    {
+        "package": "squeacr",
+        "url": "https://github.com/nutriverse/squeacr"
+    },
+    {
+        "package": "sleacr",
+        "url": "https://github.com/nutriverse/sleacr"
+    },
+    {
+        "package": "anthrocheckr",
+        "url": "https://github.com/nutriverse/anthrocheckr"
+    },
+    {
+        "package": "micronutr",
+        "url": "https://github.com/nutriverse/micronutr"
+    },
+    {
+        "package": "riycf",
+        "url": "https://github.com/nutriverse/riycf"
+    },
+    {
+        "package": "intergrowth",
+        "url": "https://github.com/nutriverse/intergrowth"
+    }
+]
