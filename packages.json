@@ -30,5 +30,9 @@
     {
         "package": "intergrowth",
         "url": "https://github.com/nutriverse/intergrowth"
+    },
+    {
+        "package": "ipctools",
+        "url": "https://github.com/nutriverse/ipctools"
     }
 ]
