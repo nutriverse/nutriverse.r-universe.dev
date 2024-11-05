@@ -26,5 +26,9 @@
     {
         "package": "intergrowth",
         "url": "https://github.com/nutriverse/intergrowth"
+    },
+    {
+        "package": "mwana",
+        "url": "https://github.com/nutriverse/mwana"
     }
 ]
